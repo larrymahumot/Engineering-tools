@@ -7,6 +7,9 @@
 > Windows Activator
 * WINDOWS 10 Activator [WINDOWS 10 Activator][20]
 
+> Utility Software
+* AOMEI Partition Assistant Standard Edition [Download][2011]
+
 >Adobe Installer
 
 * Adobe InDesign CC 2020 [Adobe InDesign CC 2020][100]
