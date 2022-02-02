@@ -9,6 +9,7 @@
 
 > Utility Software
 * AOMEI Partition Assistant Standard Edition [Download][2011]
+* Sandboxie-Plus [Download][2012]
 
 >Adobe Installer
 
@@ -119,6 +120,7 @@
 [209]: #
 [2010]:#
 [2011]:https://www.diskpart.com/download-home.html
+[2012]:https://sandboxie-plus.com
 
 
 [//]: #AddonLinks
