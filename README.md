@@ -11,6 +11,9 @@
 * AOMEI Partition Assistant Standard Edition [Download][2011]
 * Sandboxie-Plus [Download][2012]
 
+**Password Generator**
+* Cisco IOS Enable Secret Type 5 Password Cracker - https://www.ifm.net.nz/cookbooks/cisco-ios-enable-secret-password-cracker.html
+
 **Adobe Installer**
 
 * Adobe InDesign CC 2020 [Adobe InDesign CC 2020][100]
