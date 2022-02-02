@@ -12,7 +12,8 @@
 * Sandboxie-Plus [Download][2012]
 
 **Password Generator**
-* Cisco IOS Enable Secret Type 5 Password Cracker - https://www.ifm.net.nz/cookbooks/cisco-ios-enable-secret-password-cracker.html
+* Type 5 Cisco IOS Enable Secret Cracker - https://www.ifm.net.nz/cookbooks/cisco-ios-enable-secret-password-cracker.html
+* Type 7 Cisco Password Cracker - https://www.ifm.net.nz/cookbooks/passwordcracker.html
 
 **Adobe Installer**
 
