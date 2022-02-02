@@ -5,7 +5,7 @@
 * Microsoft Office 2019 ProPlus 1808 [Download](https://drive.google.com/drive/folders/1UbDbRhAXpYfQmooUdg0Hru687oZYRuKR)
 
 > Windows Activator
-* WINDOWS 10 Activator [WINDOWS 10 Activator][20]
+* WINDOWS 10 Activator [Download][20]
 
 > Utility Software
 * AOMEI Partition Assistant Standard Edition [Download][2011]
