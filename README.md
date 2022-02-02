@@ -48,7 +48,7 @@
 
 
 **Network/Internet**
->> Internet Speed Test - https://fast.com/ ,  http://wifiman.com/
+1. Internet Speed Test - https://fast.com/ ,  http://wifiman.com/
 2. SSL Test - https://www.ssllabs.com/ssltest/ , https://www.whynopadlock.com/ , https://www.sslshopper.com/ssl-checker.html
 3. Free website security check & malware scanner Test - https://sitecheck.sucuri.net/
 4. Port Forward Test - https://www.yougetsignal.com/tools/open-ports/
