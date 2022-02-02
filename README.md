@@ -2,9 +2,9 @@
 
 ## Downloads
 
-> Cisco Tools
 
 **Password Generator**
+> Cisco Tools
 * Type 5 Cisco IOS Enable Secret Cracker - https://www.ifm.net.nz/cookbooks/cisco-ios-enable-secret-password-cracker.html
 * Type 7 Cisco Password Cracker - https://www.ifm.net.nz/cookbooks/passwordcracker.html
 
