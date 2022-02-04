@@ -282,13 +282,6 @@
 [24]: #
 [25]: #
 
-
-[//]: #Netflix
-[10]: https://drive.google.com/file/d/1AL_L6uyLKjlQLYSVemIYAvCv65PIIf4D/view?usp=sharing
-[11]: https://drive.google.com/file/d/1nbIzREncYzVXeZTWwAFMn0cQwm9yELya/view?usp=sharing
-[12]: https://drive.google.com/file/d/1WW4nYTZvGU66vi7MLkWE4aJz90veHCLB/view?usp=sharing
-
-
 [//]: #AdobeInstaller
 [100]: https://drive.google.com/file/d/1cRhjvUbx-1z4asRM15cZXWQK2u1wNxZF/view
 [101]: https://mega.nz/file/LIYiAIAR#zYZMRFD75X-YTX1uDH4lS3IrjKrafWEzNtmj-N--qkg
