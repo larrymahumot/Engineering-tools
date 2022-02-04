@@ -49,11 +49,6 @@
 * Adobe Creative Cloud 2020 [Adobe Creative Cloud 2020 ][125]
 * Adobe Master Collection [Adobe Master Collection][126]
 
-**Netflix Mod No Login required**
-* Here's the download link for `Netflix Mod Apk` [Netflix Mod Apk][10]
-* Mx player mod for those who have a problem watching/viewing vids in netflix mod `Mx Player Apk` [Mx Player Apk][11]
-* ADM apk |used to download movies or series in Netflix Mod apk `Movie Downloader Apk` [Movie Downloader Apk][12]
-
 
 **Network/Internet**
 1. Internet Speed Test - https://fast.com/ ,  http://wifiman.com/
